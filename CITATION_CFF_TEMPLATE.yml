@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite the deposited release."
+title: "[待补充: final archive title]"
+version: "[待补充: release version]"
+date-released: "[待补充: YYYY-MM-DD]"
+doi: "[待补充: DOI, if assigned]"
+repository-code: "[待补充: public repository URL]"
+url: "[待补充: landing-page URL or DOI URL]"
+license: "[待补充: SPDX license identifier]"
+authors:
+  - family-names: "[待补充]"
+    given-names: "[待补充]"
+    affiliation: "[待补充]"
+    orcid: "[待补充: https://orcid.org/...]"
+keywords:
+  - reinforcement learning
+  - reproducibility
+  - sequential evaluation
+  - statistical inference
+abstract: >-
+  [待补充: concise archive description. Do not add unverified performance or
+  novelty claims.]
