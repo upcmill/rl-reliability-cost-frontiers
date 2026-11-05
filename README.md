@@ -10,7 +10,7 @@ realized compute savings, or independent-team replication.
 ## Contents
 
 - `submission_bundle_v3.tar.gz`: source, manuscripts, raw data, analyses, and
-  reproduction materials, including the current Chinese and English papers,
+  reproduction materials, including current Chinese and English Word papers,
   third-round review materials, and V7 artifacts.
 - `submission_bundle_v3.tar.gz.sha256`: SHA-256 for the package.
 - `PUBLIC_DEPOSITION_README.md`: scope and evidence limits.

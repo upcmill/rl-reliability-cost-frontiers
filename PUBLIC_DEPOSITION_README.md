@@ -19,7 +19,7 @@ an algorithm ranking beyond the stated task family and budget.
 - v4--v6 scope and resolution-cost extensions, kept separate from the v3
   primary estimand;
 - V7 frozen plan, lock, 15,000-row raw dataset, analysis outputs, and audit;
-- current English and Chinese manuscript files, supplementary information,
+- current Chinese and English Word manuscripts, supplementary information,
   third-round audit, and key-literature full-text comparison;
 - source code, environment locks, reproduction manifests, and SHA-256 hashes;
 - same-workspace recomputation and different-machine rerun artifacts;
@@ -36,10 +36,10 @@ are not pooled with the v3 primary estimand.
 ## Evidence limits and metadata
 
 The Zenodo concept DOI supplied for this project is
-`10.5281/zenodo.23949004`. Its currently published version is v3.0.1; the
-updated archive is intended to be deposited as a new version under this concept
-DOI. A concept DOI identifies the version family and resolves to its latest
-published version, while each release also has a version-specific DOI.
+`10.5281/zenodo.23949004`. The original v3.0.1 record has been superseded by
+the updated V7-era archive under the same concept DOI. A concept DOI identifies
+the version family and resolves to its latest published version, while each
+release also has a version-specific DOI.
 
 The public creator metadata currently contains only the repository account
 `upcmill`. The following author-confirmed details remain incomplete and must
