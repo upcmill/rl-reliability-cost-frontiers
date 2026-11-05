@@ -1,16 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this archive, please cite the deposited release."
-title: "[待补充: final archive title]"
-version: "[待补充: release version]"
-date-released: "[待补充: YYYY-MM-DD]"
-doi: "[待补充: DOI, if assigned]"
-repository-code: "[待补充: public repository URL]"
-url: "[待补充: landing-page URL or DOI URL]"
-license: "[待补充: SPDX license identifier]"
+title: "RL Reliability--Cost Evaluation Materials"
+version: "v3.0.4"
+date-released: "2026-11-05"
+# Concept DOI resolves to the latest version; use the landing page for release-specific metadata.
+doi: "10.5281/zenodo.23949004"
+repository-code: "https://github.com/upcmill/rl-reliability-cost-frontiers"
+url: "https://doi.org/10.5281/zenodo.23949004"
+license: "CC-BY-4.0"
 authors:
-  - family-names: "[待补充]"
-    given-names: "[待补充]"
-    affiliation: "[待补充]"
+  - family-names: "穆"
+    given-names: "浩然"
+    affiliation: "北京建筑大学"
+    orcid: "[待补充: https://orcid.org/...]"
+  - family-names: "赵"
+    given-names: "海龙"
+    affiliation: "北京建筑大学"
     orcid: "[待补充: https://orcid.org/...]"
 keywords:
   - reinforcement learning

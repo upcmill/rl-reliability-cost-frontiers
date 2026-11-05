@@ -41,12 +41,14 @@ the updated V7-era archive under the same concept DOI. A concept DOI identifies
 the version family and resolves to its latest published version, while each
 release also has a version-specific DOI.
 
-The public creator metadata currently contains only the repository account
-`upcmill`. The following author-confirmed details remain incomplete and must
-not be guessed:
+The Zenodo record currently lists only the repository account `upcmill` as
+creator, so its metadata does not identify the confirmed Chinese author list
+and affiliation shown in the local citation template. The following author
+details remain incomplete and must not be guessed:
 
-- author names, affiliations, correspondence, and ORCID;
-- author contributions, funding, competing interests, and license;
+- English romanization, email, and ORCID;
+- author contributions, funding, competing interests, and any additional
+  rights-holder license instructions;
 - external rerun operator identity, if stronger independence wording is used.
 
 These fields are tracked in `SUBMISSION_METADATA_TEMPLATE.md` and
