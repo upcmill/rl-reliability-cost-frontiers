@@ -1,0 +1,51 @@
+{
+  "release": "v3.0.5",
+  "documents": {
+    "MANUSCRIPT_MACHINE_LEARNING_SUBMISSION_EN": {
+      "pages": 31,
+      "markdown_word_parity": true,
+      "linked_resources": 5,
+      "pdf_sha256": "1faa3758f39032a1b251d91dca3a6dba2b270b6521b08bc3ba17bcf593654146"
+    },
+    "SUPPLEMENTARY_MACHINE_LEARNING_EN": {
+      "pages": 9,
+      "markdown_word_parity": true,
+      "linked_resources": 6,
+      "pdf_sha256": "4267f21ee15c232a339632626625af506c7cb98cc57b9b91b2b46397f2915e3e"
+    }
+  },
+  "resources": {
+    "Online_Resource_1_Supplement.pdf": {
+      "bytes": 354292,
+      "sha256": "4267f21ee15c232a339632626625af506c7cb98cc57b9b91b2b46397f2915e3e",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/Online_Resource_1_Supplement.pdf"
+    },
+    "Online_Resource_2_Primary_v3.zip": {
+      "bytes": 92745,
+      "sha256": "6561533be3f6724cbc393c1b2b64929f307a7d66978841810cedbf8fbb7063fc",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/Online_Resource_2_Primary_v3.zip"
+    },
+    "Online_Resource_3_Supplementary_Experiments.zip": {
+      "bytes": 6270727,
+      "sha256": "ff2f5866168ba5a33207ffca508ebbbd65f8a126c543ed8aef9a556feea0ecc5",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/Online_Resource_3_Supplementary_Experiments.zip"
+    },
+    "Online_Resource_4_Dependence_Diagnostics.zip": {
+      "bytes": 16592,
+      "sha256": "8c57094b056b8868afa0dae455834d8902d2d31b8bddd8d26e7dbaef1f5e8d89",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/Online_Resource_4_Dependence_Diagnostics.zip"
+    },
+    "submission_bundle_v3.tar.gz": {
+      "bytes": 42655075,
+      "sha256": "0575f05c018c4e0c5550632132615d2f6e8615b35f6870b507b000f2c6394aa3",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/submission_bundle_v3.tar.gz"
+    },
+    "Online_Resource_6_External_Rerun.zip": {
+      "bytes": 112957,
+      "sha256": "97ae241c22488f88a5f1d7bb3bcd32c6c3018cf523decae017c954a243d4317e",
+      "url": "https://github.com/upcmill/rl-reliability-cost-frontiers/releases/download/v3.0.5/Online_Resource_6_External_Rerun.zip"
+    }
+  },
+  "complete_bundle_members": 432,
+  "status": "PASS"
+}
